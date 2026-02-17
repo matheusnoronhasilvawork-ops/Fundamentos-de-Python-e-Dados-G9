@@ -10,4 +10,3 @@ vindo ao Buscante!" o número exato de vezes que ele precisa.
 
 for i in range(5):
     print('Welcome to the seeker')
-    counter += 1
