@@ -8,8 +8,6 @@ Ajude Marcos a escrever um programa que exiba a mensagem: "Bem-
 vindo ao Buscante!" o número exato de vezes que ele precisa.
 '''
 
-counter = 0
-
-while counter < 5:
+for i in range(5):
     print('Welcome to the seeker')
     counter += 1
